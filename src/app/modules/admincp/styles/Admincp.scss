@@ -1,0 +1,32 @@
+.logo {
+  margin-top: 12px;
+  float: left;
+}
+
+.admincp-sider {
+  background: var(--white);
+
+  &__menu {
+    border-right: 0;
+    height: '100%';
+  }
+}
+
+.admincp-layout {
+  padding: 0 24px 24px
+}
+
+.admincp-breadcrumb {
+  margin: 16px 0;
+}
+
+.admincp-content {
+  background: var(--white);
+  padding: 24px;
+  margin: 0;
+  min-height: 280px;
+}
+
+button i svg {
+  margin-top: -6px;
+}

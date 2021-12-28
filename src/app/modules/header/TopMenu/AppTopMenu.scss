@@ -1,0 +1,14 @@
+.header {
+  padding-top: 34px;
+}
+
+.top-menu {
+  background: white;
+  margin-top: -34px;
+
+  &__list {
+    a {
+      color: #818181 !important;
+    }
+  }
+}
